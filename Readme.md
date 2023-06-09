@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate developer junior from France, learning from [THP](https://www.thehackingproject.org/)</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasvdev" alt="nicolasvdev" /></a> </p>
+<h3 align="center">A passionate developer junior from France, learning from <a href="https://www.thehackingproject.org">THP</a></h3>
 
 - 📫 How to reach me **nicolasvdev@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolas vadelorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas vadelorge" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolas-vadelorge-17817a129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas vadelorge" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
