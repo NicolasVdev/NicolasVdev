@@ -11,7 +11,7 @@
 
 ##
 
-- 📫 How to reach me **nicolasvdev@gmail.com**
+- 📫 How to reach me **nicolasvadelorge.dev@gmail.com**
 
 
 <h3 align="left">
