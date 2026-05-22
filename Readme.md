@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate developer junior from France, learning from 
+  A passionate developer from France, learning from 
   <a href="https://www.thehackingproject.org">
     THP
   </a>
